@@ -9,4 +9,8 @@ Cap 2
 Cap 3
 ... Este capítulo fala sobre tal
 Referências
+  ref 1
+  ref 2
+  ref 3
+  autor ...
 ...
