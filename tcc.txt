@@ -1,0 +1,10 @@
+Título: Programando com Rails
+Descrição: Programando com Rails
+Resumo: Esse trabalho visa mostrar tal tal tal...
+Sumário
+Cap 1
+Cap 2
+Cap 3
+...
+Referências
+....
